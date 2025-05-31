@@ -1,7 +1,9 @@
 ✈️ Uçuş Rezervasyon Sistemi
+
 Bu proje, C# dili kullanılarak geliştirilen bir uçuş rezervasyon sistemidir. Kullanıcıların uçuş araması yapmasına, rezervasyon oluşturmasına ve mevcut rezervasyonları yönetmesine olanak tanır. Sistem, kullanıcı dostu bir arayüz ile uçuş bilgilerini kolayca görüntüleme ve yönetme imkanı sunar.
 
 🚀 Özellikler
+
 Uçuş Arama: Kalkış ve varış noktalarına göre uçuşları arayabilirsiniz.
 
 Rezervasyon Oluşturma: Seçilen uçuşlar için rezervasyon yapabilirsiniz.
@@ -13,6 +15,7 @@ Kullanıcı Dostu Arayüz: Basit ve sezgisel bir kullanıcı arayüzü ile kolay
 Veri Doğrulama: Giriş verileri için temel doğrulama kontrolleri.
 
 🛠️ Teknolojiler
+
 Programlama Dili: C#
 
 Geliştirme Ortamı: Visual Studio
@@ -20,6 +23,7 @@ Geliştirme Ortamı: Visual Studio
 Arayüz: Windows Forms
 
 📦 Kurulum
+
 Depoyu Klonlayın:
 
 git clone https://github.com/onursaltoparlak/flight-reservation.git
@@ -35,6 +39,7 @@ Ucus_Rezervasyon_Sistemi.sln dosyasını Visual Studio ile açın.
 
 
 📬 İletişim
+
 Herhangi bir soru veya öneriniz için lütfen benimle iletişime geçin:
 
 GitHub: onursaltoparlak
